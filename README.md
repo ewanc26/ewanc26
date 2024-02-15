@@ -2,7 +2,7 @@
 
 Hi there!
 
-I'm Ewan, a programmer and poet from the UK. My website is <https://ewancroft.uk> and my blog is <https://ewancroft.uk/blog>.
+I'm Ewan, a programmer and poet from the UK. My website is <https://ewancroft.uk> and my blog is <https://ewancroft.uk/blog> along with other stuff on my site.
 
 ![Ewan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewanc26&show_icons=false&theme=dark&hide_border=true&bg_color=0a1607&hide_title=true&include_all_commits=true&hide_rank=true&disable_animations=true)
 
