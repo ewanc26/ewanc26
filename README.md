@@ -2,7 +2,7 @@
 
 Hi there!
 
-I'm Ewan, a programmer and poet from the UK. My website is <https://ewancroft.uk> and my blog is <https://whtwnd.com/ewancroft.uk>, along with other creative and technical projects on my site.
+I'm Ewan, a programmer and poet from the UK. My website is <https://ewancroft.uk> and my blog is <https://whtwnd.com/ewancroft.uk>, along with other creative and technical project links on my site.
 
 <h3 align="left">Statistics</h3>
 <div align="center">
