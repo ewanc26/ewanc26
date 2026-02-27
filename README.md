@@ -4,7 +4,9 @@
 
 programmer and poet from the UK.
 
-[ewancroft.uk](https://ewancroft.uk) · [docs.ewancroft.uk](https://docs.ewancroft.uk) · [ko-fi](https://ko-fi.com/ewancroft)
+[ewancroft.uk](https://ewancroft.uk) · [docs.ewancroft.uk](https://docs.ewancroft.uk)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L21UTNT3)
 
 </div>
 
