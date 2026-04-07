@@ -27,3 +27,13 @@ I build tools mostly around [AT Protocol](https://atproto.com) and the Bluesky e
 | [website](https://docs.ewancroft.uk/projects/website) | source for ewancroft.uk — AT Protocol-powered personal site |
 
 Full docs at **[docs.ewancroft.uk](https://docs.ewancroft.uk)**.
+
+---
+
+### languages i like to use
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
