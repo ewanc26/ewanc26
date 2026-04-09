@@ -2,9 +2,11 @@
 
 # hi, i'm ewan
 
-programmer and poet from the UK.
+programmer, poet, and pagan from the UK.
 
-[ewancroft.uk](https://ewancroft.uk) · [docs.ewancroft.uk](https://docs.ewancroft.uk)
+i build things around [AT Protocol](https://atproto.com), compilers for esoteric languages, and self-hosted infrastructure.
+
+[ewancroft.uk](https://ewancroft.uk) · [docs.ewancroft.uk](https://docs.ewancroft.uk) · [discord.gg/letta](https://discord.gg/letta)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L21UTNT3)
 
@@ -12,28 +14,77 @@ programmer and poet from the UK.
 
 ---
 
-I build tools mostly around [AT Protocol](https://atproto.com) and the Bluesky ecosystem — bots, importers, utilities, and personal infrastructure.
+### what i build
 
-### a few things i've made
+**AT Protocol ecosystem** — tools, bots, and infrastructure for the decentralised web:
 
 | project | what it does |
 |---------|-------------|
-| [malachite](https://docs.ewancroft.uk/projects/malachite) | import Last.fm & Spotify history to AT Protocol — now in [pkgs](https://github.com/ewanc26/pkgs) |
-| [bluesky-markov](https://docs.ewancroft.uk/projects/bluesky-markov) | markov chain bot for Bluesky |
-| [bluesky-moon-tracker](https://docs.ewancroft.uk/projects/bluesky-moon-tracker) | posts daily moon phases to Bluesky |
-| [pds-backup](https://docs.ewancroft.uk/projects/pds-backup) | back up your AT Protocol PDS data |
-| [tangled-sync](https://docs.ewancroft.uk/projects/tangled-sync) | sync repos to Tangled |
-| [atproto-shortlink](https://docs.ewancroft.uk/projects/atproto-shortlink) | shortlinks backed by AT Protocol records |
-| [website](https://docs.ewancroft.uk/projects/website) | source for ewancroft.uk — AT Protocol-powered personal site |
+| [malachite](https://github.com/ewanc26/pkgs/tree/main/packages/malachite) | import Last.fm & Spotify history to AT Protocol (OAuth, CLI + web) |
+| [website](https://github.com/ewanc26/website) | ewancroft.uk — personal site powered by AT Protocol records |
+| [moonstone](https://github.com/ewanc26/moonstone) | experimental PDS in Rust (WIP) |
+| [bluesky-markov](https://github.com/ewanc26/bluesky-markov) | markov chain bot for Bluesky |
+| [bluesky-moon-tracker](https://github.com/ewanc26/bluesky-moon-tracker) | posts daily moon phases |
+| [bluesky-awoo-bot](https://github.com/ewanc26/bluesky-awoo-bot) | awoo counter for Bluesky |
+| [atproto-snake](https://github.com/ewanc26/atproto-snake) | snake game backed by AT Protocol |
+| [tangled-sync](https://github.com/ewanc26/tangled-sync) | sync repos to Tangled knotwork |
+| [pds-backup](https://github.com/ewanc26/pds-backup) | back up your AT Protocol PDS data |
+
+**Compilers & esoteric languages**:
+
+| project | what it does |
+|---------|-------------|
+| [selenium](https://github.com/ewanc26/selenium) | lunar/poetic syntax, strong typing, compiles to C |
+| [numlang](https://github.com/ewanc26/numlang) | stack-based, numbers + punctuation only, compiles to C |
+
+**NixOS & infrastructure**:
+
+| project | what it does |
+|---------|-------------|
+| [docsite](https://github.com/ewanc26/docsite) | Sequoia-powered documentation site |
+| [pkgs](https://github.com/ewanc26/pkgs) | monorepo of TypeScript/Svelte packages |
 
 Full docs at **[docs.ewancroft.uk](https://docs.ewancroft.uk)**.
 
 ---
 
-### languages i like to use
+### about me
+
+- **AT Protocol**: `did:plc:ofrbh253gwicbkc5nktqepol` · handle: `ewancroft.uk` · PDS: `eurosky.social`
+- **Location**: England, United Kingdom
+- **Heritage**: Anglo-Scottish
+- **Learning**: Scottish Gaelic (Gàidhlig na h-Alba) — "Tha mi Pàgannach" (I am Pagan)
+- **Music**: Powerwolf Top 0.03% globally
+
+**Stack**:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+**Also work with**: Rust (via neon bindings), C (compiler targets), AT Protocol lexicons
+
+---
+
+### digital sovereignty
+
+I believe in owning your data. AT Protocol lets me host my own PDS, control my identity, and take my content anywhere. My site runs on AT Protocol records. Last.fm and Spotify data flows through malachite into the same ecosystem.
+
+---
+
+### stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ewanc26&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ewanc26&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+
+---
+
+<div align="center">
+
+*moon phases • AT Protocol • compilers • wolves*
+
+</div>
