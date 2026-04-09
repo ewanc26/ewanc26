@@ -75,14 +75,6 @@ I believe in owning your data. AT Protocol lets me host my own PDS, control my i
 
 ---
 
-### stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ewanc26&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ewanc26&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
----
-
 <div align="center">
 
 *moon phases • AT Protocol • compilers • wolves*
