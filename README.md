@@ -6,7 +6,7 @@ programmer, poet, and pagan from the UK.
 
 i build things around [AT Protocol](https://atproto.com), compilers for esoteric languages, and self-hosted infrastructure.
 
-[ewancroft.uk](https://ewancroft.uk) · [docs.ewancroft.uk](https://docs.ewancroft.uk) · [discord.gg/letta](https://discord.gg/letta)
+[ewancroft.uk](https://ewancroft.uk) · [docs.ewancroft.uk](https://docs.ewancroft.uk)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L21UTNT3)
 
