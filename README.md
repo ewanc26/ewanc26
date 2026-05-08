@@ -85,6 +85,7 @@ Full docs at **[docs.ewancroft.uk](https://docs.ewancroft.uk)**. Devlog at **[de
 - **Heritage**: Anglo-Scottish
 - **Learning**: Scottish Gaelic (Gàidhlig na h-Alba) — "Tha mi Pàgannach" (I am Pagan)
 - **Music**: Powerwolf Top 0.03% globally
+- **Crypto**: XMR `44yH2LpkSsrSmWQC3SVmrABw2MUhNjNCE365hG7Rr7veJYNPBD1f6dNgXNr2nc6ZcP3jEyj9vXnqmg7VBBPeS8uwMhJ4yXW` · BTC `bc1qp3l6e9pjc5jan7ulpd58av8wfdtyhrchj84clh` · ETH `0x4B8c9d62ff89bc7199a197C55dac2abef1808B77`
 
 **Stack**:
 
