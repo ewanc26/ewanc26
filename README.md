@@ -22,7 +22,7 @@ i build things around [AT Protocol](https://atproto.com), compilers for esoteric
 
 | project | what it does |
 |---------|-------------|
-| [malachite](https://github.com/ewanc26/pkgs/tree/main/packages/malachite) · [🧶](https://tangled.org/ewancroft.uk/pkgs) | import Last.fm & Spotify history to AT Protocol (OAuth, CLI + web) |
+| [malachite](https://github.com/ewanc26/pkgs/tree/main/packages/malachite) · [🧶](https://tangled.org/ewancroft.uk/pkgs) | import Last.fm, Spotify, Apple Music & YouTube Music history to AT Protocol (OAuth, CLI + web) |
 | [opal](https://github.com/ewanc26/pkgs/tree/main/packages/opal) | migrate Twitter, Mastodon, Threads, Nostr → Bluesky (OAuth, CLI + web) |
 | [jasper](https://github.com/ewanc26/pkgs/tree/main/packages/jasper) | import Instagram posts to AT Protocol as Grain/Spark (OAuth, CLI + web) |
 | [bismuth](https://github.com/ewanc26/pkgs/tree/main/packages/bismuth) | convert site.standard.document records → Markdown (CLI + web) |
@@ -103,7 +103,7 @@ Full docs at **[docs.ewancroft.uk](https://docs.ewancroft.uk)**. Devlog at **[de
 
 ### digital sovereignty
 
-I believe in owning your data. AT Protocol lets me host my own PDS, control my identity, and take my content anywhere. My site runs on AT Protocol records. Last.fm and Spotify data flows through malachite into the same ecosystem. Instagram exports go through jasper. Twitter and Mastodon history through opal. All roads lead back to the same PDS.
+I believe in owning your data. AT Protocol lets me host my own PDS, control my identity, and take my content anywhere. My site runs on AT Protocol records. Last.fm, Spotify, Apple Music, and YouTube Music data flows through malachite into the same ecosystem. Instagram exports go through jasper. Twitter and Mastodon history through opal. All roads lead back to the same PDS.
 
 ---
 
