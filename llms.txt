@@ -1,0 +1,26 @@
+# Ewan Croft
+
+Full-stack developer, poet, and pagan building tools for the decentralized web and esoteric language compilers.
+
+## Overview
+I focus on AT Protocol (ATProto) ecosystem development, digital sovereignty, and self-hosted infrastructure. My work bridges the gap between legacy social platforms and the open social web.
+
+## Primary Repositories
+- [ewanc26/pkgs](https://github.com/ewanc26/pkgs): Monorepo for ATProto tools (Malachite, Opal, Jasper, Bismuth, Tourmaline).
+- [ewanc26/website](https://github.com/ewanc26/website): SvelteKit-based personal site powered by ATProto.
+- [ewanc26/nix](https://github.com/ewanc26/nix): NixOS configurations for PDS and server infrastructure.
+
+## Key ATProto Tools
+- **Malachite**: Last.fm/Spotify → Teal.fm (Music history).
+- **Opal**: Twitter/Mastodon/Threads/Nostr → Bluesky (Microblog history).
+- **Jasper**: Instagram → Grain/Spark (Photo/Video history).
+- **Bismuth**: Standard.site (richtext-block) → Markdown.
+- **Tourmaline**: Teal.fm analyzer & listener personality generator.
+
+## Design Philosophy
+My projects use a dynamic OKLCH-based color system interpolating between seasonal hues (the eight Sabbats). Typography centers on Inter. Emphasis on privacy (browser-based tools) and data ownership.
+
+## Cultural Context
+- **Heritage**: Anglo-Scottish.
+- **Language**: Learning Scottish Gaelic (Gàidhlig na h-Alba).
+- **Spirituality**: Pagan, following the Wheel of the Year.
