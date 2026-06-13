@@ -18,6 +18,15 @@ i build things around [AT Protocol](https://atproto.com), compilers for esoteric
 
 ---
 
+### github stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ewanc26&show_icons=true&theme=dark&hide_border=true&count_private=true&line_height=24" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ewanc26&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+---
+
 ### what i build
 
 **AT Protocol ecosystem** — tools, bots, and infrastructure for the decentralised web:
