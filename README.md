@@ -2,6 +2,8 @@
 
 # hi, i'm ewan
 
+**Gàidhlig na h-Alba**: *Tha mi Pàgannach agus tha mi a' togail innealan airson AT Protocol.* (I am Pagan and I am building tools for AT Protocol.)
+
 programmer, poet, and pagan from the UK.
 
 i build things around [AT Protocol](https://atproto.com), compilers for esoteric languages, and self-hosted infrastructure.
@@ -35,7 +37,7 @@ i build things around [AT Protocol](https://atproto.com), compilers for esoteric
 | [linkat-directory](https://github.com/ewanc26/linkat-directory) · [🧶](https://tangled.org/ewancroft.uk/linkat-directory) | Linkat-powered user directory |
 | [pds-backup](https://github.com/ewanc26/pds-backup) · [🧶](https://tangled.org/ewancroft.uk/pds-backup) | back up your AT Protocol PDS data |
 
-**Bots**:
+**Bots & Live Automations**:
 
 | project | what it does |
 |---------|-------------|
@@ -46,6 +48,8 @@ i build things around [AT Protocol](https://atproto.com), compilers for esoteric
 | [bluesky-avatar-updater](https://github.com/ewanc26/bluesky-avatar-updater) · [🧶](https://tangled.org/ewancroft.uk/bluesky-avatar-updater) | scheduled avatar updates |
 | [bluesky-ollama](https://github.com/ewanc26/bluesky-ollama) · [🧶](https://tangled.org/ewancroft.uk/bluesky-ollama) | LLM-generated posts via Ollama |
 | [mastodon-markov](https://github.com/ewanc26/mastodon-markov) · [🧶](https://tangled.org/ewancroft.uk/mastodon-markov) | markov chain bot for Mastodon |
+| `soccer-relay` | **Live**: Real-time soccer match events relay to AT Protocol via Poke. |
+| `email-notify` | **Live**: Automated importance classification and notification for inbound mail. |
 
 **Compilers & esoteric languages**:
 
