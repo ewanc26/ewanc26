@@ -1,7 +1,3 @@
-To simplify your profile, I have condensed the information while keeping the core identity, technical expertise, and links intact. This version removes the clutter of large tables and long lists, making it much more readable.
-
----
-
 # hi, i'm ewan
 
 *Programmer, poet, and pagan based in the UK.*
