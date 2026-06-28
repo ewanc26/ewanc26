@@ -34,22 +34,22 @@ i build things around [AT Protocol](https://atproto.com), compilers for esoteric
 | project | what it does |
 |---------|-------------|
 | [malachite](https://github.com/ewanc26/pkgs/tree/main/packages/malachite) · [🧶](https://tangled.org/ewancroft.uk/pkgs) | import Last.fm, Spotify, Apple Music & YouTube Music history to AT Protocol (OAuth, CLI + web) |
-| [opal](https://github.com/ewanc26/pkgs/tree/main/packages/opal) | migrate Twitter, Mastodon, Threads, Nostr → Bluesky (OAuth, CLI + web) |
-| [jasper](https://github.com/ewanc26/pkgs/tree/main/packages/jasper) | import Instagram posts to AT Protocol as Grain/Spark (OAuth, CLI + web) |
-| [bismuth](https://github.com/ewanc26/pkgs/tree/main/packages/bismuth) | convert site.standard.document records → Markdown (CLI + web) |
+| [opal](https://github.com/ewanc26/pkgs/tree/main/packages/opal) · [🧶](https://tangled.org/ewancroft.uk/pkgs) | migrate Twitter, Mastodon, Threads, Nostr → Bluesky (OAuth, CLI + web) |
+| [jasper](https://github.com/ewanc26/pkgs/tree/main/packages/jasper) · [🧶](https://tangled.org/ewancroft.uk/pkgs) | import Instagram posts to AT Protocol as Grain/Spark (OAuth, CLI + web) |
+| [bismuth](https://github.com/ewanc26/pkgs/tree/main/packages/bismuth) · [🧶](https://tangled.org/ewancroft.uk/pkgs) | convert site.standard.document records → Markdown (CLI + web) |
 | [website](https://github.com/ewanc26/website) · [🧶](https://tangled.org/ewancroft.uk/website) | ewancroft.uk — personal site powered by AT Protocol records |
 | [moonstone](https://github.com/ewanc26/moonstone) · [🧶](https://tangled.org/ewancroft.uk/moonstone) | experimental PDS in Rust (WIP) |
-| [socialsync](https://github.com/ewanc26/socialsync) · [🧶](https://tangled.org/ewancroft.uk/socialsync) | Minecraft mod — sync stats & achievements to AT Protocol |
+| [socialsync](https://github.com/ewanc26/socialsync) · [🧶](https://tangled.org/jollywhoppers.com/socialsync) | Minecraft mod — sync stats & achievements to AT Protocol |
 | [atproto-snake](https://github.com/ewanc26/atproto-snake) · [🧶](https://tangled.org/ewancroft.uk/atproto-snake) | snake game with AT Protocol OAuth and score submission |
 | [atproto-shortlink](https://github.com/ewanc26/atproto-shortlink) · [🧶](https://tangled.org/ewancroft.uk/atproto-shortlink) | shortlink service for AT Protocol handles and DIDs |
 | [linkat-directory](https://github.com/ewanc26/linkat-directory) · [🧶](https://tangled.org/ewancroft.uk/linkat-directory) | Linkat-powered user directory |
 | [pds-backup](https://github.com/ewanc26/pds-backup) · [🧶](https://tangled.org/ewancroft.uk/pds-backup) | back up your AT Protocol PDS data |
 | [atpkt](https://github.com/ewanc26/atpkt) · [🧶](https://tangled.org/ewancroft.uk/atpkt) | Kotlin AT Protocol SDK (Ktor, kotlinx.serialization) |
-| [tourmaline](https://github.com/ewanc26/tourmaline) · [🧶](https://tangled.org/ewancroft.uk/tourmaline) | Teal.fm scrobble analyser & listener profile generator |
-| [atproto-mcp-server](https://github.com/ewanc26/atproto-mcp-server) · [🧶](https://tangled.org/ewancroft.uk/atproto-mcp-server) | MCP server for Bluesky/AT Protocol interactions |
+| [tourmaline](https://github.com/ewanc26/tourmaline) | Teal.fm scrobble analyser & listener profile generator |
+| [atproto-mcp-server](https://github.com/ewanc26/atproto-mcp-server) | MCP server for Bluesky/AT Protocol interactions |
 | [svelte-standard-site](https://github.com/ewanc26/svelte-standard-site) · [🧶](https://tangled.org/ewancroft.uk/svelte-standard-site) | Standard.site publication renderer for SvelteKit |
 | [eurosky-social-app](https://github.com/ewanc26/eurosky-social-app) | eurosky fork of Bluesky Social app |
-| [cleanfollow-bsky](https://github.com/ewanc26/cleanfollow-bsky) · [🧶](https://tangled.org/ewancroft.uk/cleanfollow-bsky) | hidden accounts unfollow tool for Bluesky |
+| [cleanfollow-bsky](https://github.com/ewanc26/cleanfollow-bsky) | hidden accounts unfollow tool for Bluesky |
 | [inkwell](https://github.com/ewanc26/inkwell) · [🧶](https://tangled.org/ewancroft.uk/inkwell) | iOS client for Standard.site (AT Protocol) |
 | [inkwell-android](https://github.com/ewanc26/inkwell-android) · [🧶](https://tangled.org/ewancroft.uk/inkwell-android) | Android client for Standard.site (AT Protocol) |
 
@@ -74,7 +74,7 @@ i build things around [AT Protocol](https://atproto.com), compilers for esoteric
 | [selenium](https://github.com/ewanc26/selenium) · [🧶](https://tangled.org/ewancroft.uk/selenium) | lunar/poetic syntax, strong typing, compiles to C |
 | [numlang](https://github.com/ewanc26/numlang) · [🧶](https://tangled.org/ewancroft.uk/numlang) | stack-based, numbers + punctuation only, compiles to C |
 | [sigi](https://github.com/ewanc26/sigi) · [🧶](https://tangled.org/ewancroft.uk/sigi) | pure symbolic stack language, all punctuation, compiles to C |
-| [esoterica](https://github.com/ewanc26/esoterica) · [🧶](https://tangled.org/ewancroft.uk/esoterica) | Rust framework for generating constructed languages (conlangs) |
+| [esoterica](https://github.com/ewanc26/esoterica) | Rust framework for generating constructed languages (conlangs) |
 
 **NixOS & infrastructure**:
 
@@ -92,9 +92,9 @@ i build things around [AT Protocol](https://atproto.com), compilers for esoteric
 | [tangled-sync](https://github.com/ewanc26/tangled-sync) · [🧶](https://tangled.org/ewancroft.uk/tangled-sync) | sync repos to Tangled knotwork |
 | [mc-server](https://github.com/ewanc26/mc-server) · [🧶](https://tangled.org/ewancroft.uk/mc-server) | NixOS Minecraft server config |
 | [website-comm-template](https://github.com/ewanc26/website-comm-template) · [🧶](https://tangled.org/ewancroft.uk/website-comm-template) | SvelteKit template with Resend contact form |
-| [digital-person](https://github.com/ewanc26/digital-person) · [🧶](https://tangled.org/ewancroft.uk/digital-person) | Letta agent template for human online presence |
-| [faol-website](https://github.com/ewanc26/faol-website) · [🧶](https://tangled.org/ewancroft.uk/faol-website) | Faol's blog — digital person, published with Sequoia |
-| [letta-writer](https://github.com/ewanc26/letta-writer) · [🧶](https://tangled.org/ewancroft.uk/letta-writer) | Letta agent for writing and document tasks |
+| [digital-person](https://github.com/ewanc26/digital-person) | Letta agent template for human online presence |
+| [faol-website](https://github.com/ewanc26/faol-website) | Faol's blog — digital person, published with Sequoia |
+| [letta-writer](https://github.com/ewanc26/letta-writer) | Letta agent for writing and document tasks |
 
 Full docs at **[docs.ewancroft.uk](https://docs.ewancroft.uk)**. Devlog at **[devlog.croft.click](https://devlog.croft.click)**.
 
