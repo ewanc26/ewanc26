@@ -13,7 +13,7 @@ My tools act as bridges to the ATProto ecosystem:
 - **Documentation**: Bismuth converts rich documents into portable Markdown.
 
 ## Infrastructure
-My PDS runs on a hardened NixOS server, managed via the `ewanc26/nix` repository. It is exposed via a Cloudflare tunnel to ensure no open inbound ports.
+My PDS runs at `eurosky.social`. NixOS configurations for my hosts are managed via the `ewanc26/nix` repository, with starter templates in `ewanc26/nix-starter`.
 
 ## Identity
 - **DID**: `did:plc:ofrbh253gwicbkc5nktqepol`

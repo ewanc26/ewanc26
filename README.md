@@ -44,6 +44,14 @@ i build things around [AT Protocol](https://atproto.com), compilers for esoteric
 | [atproto-shortlink](https://github.com/ewanc26/atproto-shortlink) · [🧶](https://tangled.org/ewancroft.uk/atproto-shortlink) | shortlink service for AT Protocol handles and DIDs |
 | [linkat-directory](https://github.com/ewanc26/linkat-directory) · [🧶](https://tangled.org/ewancroft.uk/linkat-directory) | Linkat-powered user directory |
 | [pds-backup](https://github.com/ewanc26/pds-backup) · [🧶](https://tangled.org/ewancroft.uk/pds-backup) | back up your AT Protocol PDS data |
+| [atpkt](https://github.com/ewanc26/atpkt) · [🧶](https://tangled.org/ewancroft.uk/atpkt) | Kotlin AT Protocol SDK (Ktor, kotlinx.serialization) |
+| [tourmaline](https://github.com/ewanc26/tourmaline) · [🧶](https://tangled.org/ewancroft.uk/tourmaline) | Teal.fm scrobble analyser & listener profile generator |
+| [atproto-mcp-server](https://github.com/ewanc26/atproto-mcp-server) · [🧶](https://tangled.org/ewancroft.uk/atproto-mcp-server) | MCP server for Bluesky/AT Protocol interactions |
+| [svelte-standard-site](https://github.com/ewanc26/svelte-standard-site) · [🧶](https://tangled.org/ewancroft.uk/svelte-standard-site) | Standard.site publication renderer for SvelteKit |
+| [eurosky-social-app](https://github.com/ewanc26/eurosky-social-app) | eurosky fork of Bluesky Social app |
+| [cleanfollow-bsky](https://github.com/ewanc26/cleanfollow-bsky) · [🧶](https://tangled.org/ewancroft.uk/cleanfollow-bsky) | hidden accounts unfollow tool for Bluesky |
+| [inkwell](https://github.com/ewanc26/inkwell) · [🧶](https://tangled.org/ewancroft.uk/inkwell) | iOS client for Standard.site (AT Protocol) |
+| [inkwell-android](https://github.com/ewanc26/inkwell-android) · [🧶](https://tangled.org/ewancroft.uk/inkwell-android) | Android client for Standard.site (AT Protocol) |
 
 **Bots & Live Automations**:
 
@@ -66,12 +74,13 @@ i build things around [AT Protocol](https://atproto.com), compilers for esoteric
 | [selenium](https://github.com/ewanc26/selenium) · [🧶](https://tangled.org/ewancroft.uk/selenium) | lunar/poetic syntax, strong typing, compiles to C |
 | [numlang](https://github.com/ewanc26/numlang) · [🧶](https://tangled.org/ewancroft.uk/numlang) | stack-based, numbers + punctuation only, compiles to C |
 | [sigi](https://github.com/ewanc26/sigi) · [🧶](https://tangled.org/ewancroft.uk/sigi) | pure symbolic stack language, all punctuation, compiles to C |
+| [esoterica](https://github.com/ewanc26/esoterica) · [🧶](https://tangled.org/ewancroft.uk/esoterica) | Rust framework for generating constructed languages (conlangs) |
 
 **NixOS & infrastructure**:
 
 | project | what it does |
 |---------|-------------|
-| [nix-starter](https://github.com/ewanc26/nix-starter) · [🧶](https://tangled.org/ewancroft.uk/nix-starter) | NixOS config for 3 hosts (PDS, Caddy, Tailscale) |
+| [nix-starter](https://github.com/ewanc26/nix-starter) · [🧶](https://tangled.org/ewancroft.uk/nix-starter) | starter NixOS configs — TUI laptop and hardened server |
 | [docsite](https://github.com/ewanc26/docsite) · [🧶](https://tangled.org/ewancroft.uk/docsite) | Sequoia-powered documentation site |
 | [devlog](https://github.com/ewanc26/devlog) | automated changelog published to AT Protocol |
 | [pkgs](https://github.com/ewanc26/pkgs) · [🧶](https://tangled.org/ewancroft.uk/pkgs) | monorepo — 16+ TypeScript packages, 1 Rust, 1 Python |
@@ -82,8 +91,10 @@ i build things around [AT Protocol](https://atproto.com), compilers for esoteric
 |---------|-------------|
 | [tangled-sync](https://github.com/ewanc26/tangled-sync) · [🧶](https://tangled.org/ewancroft.uk/tangled-sync) | sync repos to Tangled knotwork |
 | [mc-server](https://github.com/ewanc26/mc-server) · [🧶](https://tangled.org/ewancroft.uk/mc-server) | NixOS Minecraft server config |
-| [platformer-collab](https://github.com/ewanc26/platformer-collab) · [🧶](https://tangled.org/ewancroft.uk/platformer-collab) | collaborative 3D platformer (Godot) |
 | [website-comm-template](https://github.com/ewanc26/website-comm-template) · [🧶](https://tangled.org/ewancroft.uk/website-comm-template) | SvelteKit template with Resend contact form |
+| [digital-person](https://github.com/ewanc26/digital-person) · [🧶](https://tangled.org/ewancroft.uk/digital-person) | Letta agent template for human online presence |
+| [faol-website](https://github.com/ewanc26/faol-website) · [🧶](https://tangled.org/ewancroft.uk/faol-website) | Faol's blog — digital person, published with Sequoia |
+| [letta-writer](https://github.com/ewanc26/letta-writer) · [🧶](https://tangled.org/ewancroft.uk/letta-writer) | Letta agent for writing and document tasks |
 
 Full docs at **[docs.ewancroft.uk](https://docs.ewancroft.uk)**. Devlog at **[devlog.croft.click](https://devlog.croft.click)**.
 
@@ -108,6 +119,8 @@ Full docs at **[docs.ewancroft.uk](https://docs.ewancroft.uk)**. Devlog at **[de
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
 **Also work with**: C (compiler targets), AT Protocol lexicons, Godot (GDScript)
 
