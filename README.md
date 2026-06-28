@@ -64,8 +64,6 @@ i build things around [AT Protocol](https://atproto.com), compilers for esoteric
 | [bluesky-avatar-updater](https://github.com/ewanc26/bluesky-avatar-updater) · [🧶](https://tangled.org/ewancroft.uk/bluesky-avatar-updater) | scheduled avatar updates |
 | [bluesky-ollama](https://github.com/ewanc26/bluesky-ollama) · [🧶](https://tangled.org/ewancroft.uk/bluesky-ollama) | LLM-generated posts via Ollama |
 | [mastodon-markov](https://github.com/ewanc26/mastodon-markov) · [🧶](https://tangled.org/ewancroft.uk/mastodon-markov) | markov chain bot for Mastodon |
-| `soccer-relay` | **Live**: Real-time soccer match events relay to AT Protocol via Poke. |
-| `email-notify` | **Live**: Automated importance classification and notification for inbound mail. |
 
 **Compilers & esoteric languages**:
 

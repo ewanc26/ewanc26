@@ -1,26 +1,82 @@
 # Ewan Croft
 
-Full-stack developer, poet, and pagan building tools for the decentralized web and esoteric language compilers.
+Full-stack developer, poet, and pagan building tools for the AT Protocol ecosystem, esoteric language compilers, and self-hosted infrastructure.
 
 ## Overview
-I focus on AT Protocol (ATProto) ecosystem development, digital sovereignty, and self-hosted infrastructure. My work bridges the gap between legacy social platforms and the open social web.
+
+I focus on AT Protocol (ATProto) ecosystem development, digital sovereignty, and self-hosting. My work bridges the gap between legacy social platforms and the open social web.
 
 ## Primary Repositories
+
 - [ewanc26/pkgs](https://github.com/ewanc26/pkgs): Monorepo for ATProto tools (Malachite, Opal, Jasper, Bismuth, Tourmaline).
 - [ewanc26/website](https://github.com/ewanc26/website): SvelteKit-based personal site powered by ATProto.
-- [ewanc26/nix](https://github.com/ewanc26/nix): NixOS configurations for PDS and server infrastructure.
+- [ewanc26/nix](https://github.com/ewanc26/nix): NixOS configurations for desktop and laptop hosts.
+- [ewanc26/atpkt](https://github.com/ewanc26/atpkt): Kotlin AT Protocol SDK (Ktor, kotlinx.serialization).
+- [ewanc26/esoterica](https://github.com/ewanc26/esoterica): Rust framework for generating constructed languages (conlangs).
+- [ewanc26/digital-person](https://github.com/ewanc26/digital-person): Letta agent template for human online presence.
+- [ewanc26/inkwell](https://github.com/ewanc26/inkwell): iOS client for Standard.site (AT Protocol).
+- [ewanc26/inkwell-android](https://github.com/ewanc26/inkwell-android): Android client for Standard.site (AT Protocol).
 
 ## Key ATProto Tools
-- **Malachite**: Last.fm/Spotify → Teal.fm (Music history).
-- **Opal**: Twitter/Mastodon/Threads/Nostr → Bluesky (Microblog history).
-- **Jasper**: Instagram → Grain/Spark (Photo/Video history).
+
+- **Malachite**: Last.fm/Spotify/Apple Music/YouTube Music → Teal.fm (music history).
+- **Opal**: Twitter/Mastodon/Threads/Nostr → Bluesky (microblog history).
+- **Jasper**: Instagram → Grain/Spark (photo/video history).
 - **Bismuth**: Standard.site (richtext-block) → Markdown.
-- **Tourmaline**: Teal.fm analyzer & listener personality generator.
+- **Tourmaline**: Teal.fm scrobble analyser & listener profile generator.
+- **atpkt**: Kotlin AT Protocol SDK (Ktor, kotlinx.serialization).
+- **atproto-mcp-server**: MCP server for Bluesky/AT Protocol interactions.
+- **svelte-standard-site**: Standard.site publication renderer for SvelteKit.
+- **eurosky-social-app**: eurosky fork of Bluesky Social app.
+- **cleanfollow-bsky**: Hidden accounts unfollow tool for Bluesky.
+- **moonstone**: Experimental PDS in Rust (WIP).
+
+## Compilers & Esoteric Languages
+
+- **selenium**: Lunar/poetic syntax, strong typing, compiles to C.
+- **numlang**: Stack-based, numbers + punctuation only, compiles to C.
+- **sigi**: Pure symbolic stack language, all punctuation, compiles to C.
+- **esoterica**: Rust framework for generating constructed languages (conlangs).
+
+## Bots & Automation
+
+- **bluesky-moon-tracker**: Daily moon phase posts (Rust, atrium-rs).
+- **bluesky-awoo-bot**: Wolf sounds on Bluesky.
+- **bluesky-markov**: Markov chain bot for Bluesky.
+- **bluesky-gradient**: Gradient profile banner generator.
+- **bluesky-avatar-updater**: Scheduled avatar updates.
+- **bluesky-ollama**: LLM-generated posts via Ollama.
+- **mastodon-markov**: Markov chain bot for Mastodon.
+
+## Infrastructure
+
+- **nix-starter**: Starter NixOS configs — TUI laptop and hardened server.
+- **nix**: NixOS configurations for desktop and laptop hosts.
+- **docsite**: Sequoia-powered documentation site.
+- **devlog**: Automated changelog published to AT Protocol.
+- **pkgs**: Monorepo — 16+ TypeScript packages, 1 Rust, 1 Python.
+
+## Tech Stack
+
+**Languages**: TypeScript, Kotlin, Swift, Python, Rust, C, Nix, Shell.
+**Frameworks**: SvelteKit, Svelte 5, Tailwind CSS 4, Godot 4.6.
+**Tools**: pnpm, NixOS, Caddy, AT Protocol lexicons.
 
 ## Design Philosophy
-My projects use a dynamic OKLCH-based color system interpolating between seasonal hues (the eight Sabbats). Typography centers on Inter. Emphasis on privacy (browser-based tools) and data ownership.
+
+Catppuccin-inspired forest-green palette with terminal aesthetics. Typography centers on Inter and JetBrains Mono. Emphasis on privacy (browser-based tools) and data ownership.
 
 ## Cultural Context
+
 - **Heritage**: Anglo-Scottish.
 - **Language**: Learning Scottish Gaelic (Gàidhlig na h-Alba).
 - **Spirituality**: Pagan, following the Wheel of the Year.
+- **Identity**: Lycanthropy/werewolf — persistent identity theme.
+- **Music**: Powerwolf Top 0.03% globally.
+
+## Identity
+
+- **DID**: `did:plc:ofrbh253gwicbkc5nktqepol`
+- **Handle**: `ewancroft.uk`
+- **PDS**: `eurosky.social`
+- **Code hosting**: GitHub (ewanc26) · Tangled (ewancroft.uk)
