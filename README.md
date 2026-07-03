@@ -25,6 +25,28 @@ i build things around [AT Protocol](https://atproto.com), compilers for esoteric
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ewanc26&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ewanc26&theme=dark&hide_border=true&date_format=j%20M%20Y" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ewanc26&theme=react-dark&hide_border=true&area=true&color=a6e3a1&line=a6e3a1&point=ffffff" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+### at protocol stats
+
+<div align="center">
+
+![Posts](https://img.shields.io/badge/dynamic/json?url=https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=did:plc:ofrbh253gwicbkc5nktqepol&query=postsCount&label=Posts&style=flat-square&color=a6e3a1)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=did:plc:ofrbh253gwicbkc5nktqepol&query=followersCount&label=Followers&style=flat-square&color=a6e3a1)
+![Following](https://img.shields.io/badge/dynamic/json?url=https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=did:plc:ofrbh253gwicbkc5nktqepol&query=followsCount&label=Following&style=flat-square&color=a6e3a1)
+![Collections](https://img.shields.io/badge/Collections-165-a6e3a1?style=flat-square)
+![PDS](https://img.shields.io/badge/PDS-eurosky.social-a6e3a1?style=flat-square)
+
+</div>
+
 ---
 
 ### what i build
