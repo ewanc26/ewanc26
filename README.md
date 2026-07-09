@@ -55,6 +55,7 @@ i build things around [AT Protocol](https://atproto.com), compilers for esoteric
 
 | project | what it does |
 |---------|-------------|
+| [wolfram](https://github.com/ewanc26/wolfram) · [🧶](https://tangled.org/ewancroft.uk/wolfram) | C11 AT Protocol SDK (`libwolfram`) — XRPC/WebSocket transport, OAuth/DPoP, repo DAG-CBOR/CAR/MST, firehose + Jetstream, moderation, PLC ops, with C++ & C# bindings |
 | [malachite](https://github.com/ewanc26/pkgs/tree/main/packages/malachite) · [🧶](https://tangled.org/ewancroft.uk/pkgs) | import Last.fm, Spotify, Apple Music & YouTube Music history to AT Protocol (OAuth, CLI + web) |
 | [opal](https://github.com/ewanc26/pkgs/tree/main/packages/opal) · [🧶](https://tangled.org/ewancroft.uk/pkgs) | migrate Twitter, Mastodon, Threads, Nostr → Bluesky (OAuth, CLI + web) |
 | [jasper](https://github.com/ewanc26/pkgs/tree/main/packages/jasper) · [🧶](https://tangled.org/ewancroft.uk/pkgs) | import Instagram posts to AT Protocol as Grain/Spark (OAuth, CLI + web) |
@@ -141,8 +142,9 @@ Full docs at **[docs.ewancroft.uk](https://docs.ewancroft.uk)**. Devlog at **[de
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
-**Also work with**: C (compiler targets), AT Protocol lexicons, Godot (GDScript)
+**Also work with**: C (libwolfram AT Protocol SDK), AT Protocol lexicons, Godot (GDScript)
 
 ---
 

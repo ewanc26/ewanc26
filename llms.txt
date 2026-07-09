@@ -8,6 +8,7 @@ I focus on AT Protocol (ATProto) ecosystem development, digital sovereignty, and
 
 ## Primary Repositories
 
+- [ewanc26/wolfram](https://github.com/ewanc26/wolfram): C11 AT Protocol SDK (`libwolfram`) with XRPC/WebSocket transport, OAuth/DPoP, repo DAG-CBOR/CAR/MST, firehose + Jetstream, moderation, PLC ops, and C++/C# bindings.
 - [ewanc26/pkgs](https://github.com/ewanc26/pkgs): Monorepo for ATProto tools (Malachite, Opal, Jasper, Bismuth, Tourmaline).
 - [ewanc26/website](https://github.com/ewanc26/website): SvelteKit-based personal site powered by ATProto.
 - [ewanc26/nix](https://github.com/ewanc26/nix): NixOS configurations for desktop and laptop hosts.
