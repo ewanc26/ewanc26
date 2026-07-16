@@ -4,7 +4,7 @@ Guidance for agents working on the `ewanc26` GitHub profile repository.
 
 ## Scope
 
-The root `README.md` is the product: GitHub renders it on the account profile. It presents current projects, AT Protocol activity, values, links, and generated/statistical embeds.
+The root `README.md` is the product: GitHub renders it on the account profile. It presents a bilingual Gaelic/English introduction, live GitHub and AT Protocol badges, grouped project tables, tools/technologies, infrastructure principles, current work, and contact/support links. There is no application source or build system.
 
 ## Rules
 
@@ -12,7 +12,7 @@ The root `README.md` is the product: GitHub renders it on the account profile. I
 - Preserve working links, image alt text, and readable rendering in both light and dark GitHub themes.
 - Treat externally generated badges/cards as third-party dependencies; use stable HTTPS endpoints and do not embed secrets in query strings.
 - Keep HTML within GitHub's supported Markdown subset.
-- Avoid turning the profile into a full project catalogue; emphasize maintained/current work and remove stale claims when evidence changes.
+- Keep the hand-maintained project catalogue, counts, PDS label, current-work list, and canonical/archived links synchronized with the repositories they describe.
 
 ## Validation
 
