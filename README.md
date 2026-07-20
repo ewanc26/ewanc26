@@ -1,161 +1,28 @@
-<div align="center">
-
 # hi, i'm ewan
 
-**Gàidhlig na h-Alba**: *Tha mi Pàgannach agus tha mi a' togail innealan airson AT Protocol.* (I am Pagan and I am building tools for AT Protocol.)
+*Tha mi Pàgannach agus tha mi a' togail innealan airson AT Protocol.*
 
-programmer, poet, and pagan from the UK.
+Anglo-Scottish pagan, poet, and programmer from the UK. I build AT Protocol tools, small games, and self-hosted services.
 
-i build things around [AT Protocol](https://atproto.com), compilers for esoteric languages, and self-hosted infrastructure.
+[website](https://ewancroft.uk) · [docs](https://docs.ewancroft.uk) · [devlog](https://devlog.croft.click) · [Forgejo](https://git.croft.click) · [Tangled](https://tangled.org/ewancroft.uk) · [Ko-fi](https://ko-fi.com/L4L21UTNT3)
 
-[ewancroft.uk](https://ewancroft.uk) · [docs.ewancroft.uk](https://docs.ewancroft.uk) · [devlog.croft.click](https://devlog.croft.click)
+## current projects
 
-[![GitHub](https://img.shields.io/badge/GitHub-ewanc26-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ewanc26) [![Tangled](https://img.shields.io/badge/Tangled-ewancroft.uk-7C3AED?style=flat-square&logoColor=white)](https://tangled.org/ewancroft.uk)
+| project | what it is |
+| --- | --- |
+| [wolfram](https://github.com/ewanc26/wolfram) | C11 SDK for AT Protocol, including OAuth, repositories, streaming, and Wii support |
+| [hasharium](https://github.com/ewanc26/hasharium) | deterministic DID specimens and PDS-backed collections |
+| [website](https://github.com/ewanc26/website) | personal site powered by AT Protocol records |
+| [pkgs](https://github.com/ewanc26/pkgs) | publishing and migration tools for the decentralised web |
+| [channel-blue](https://github.com/ewanc26/channel-blue) | Bluesky client for the Wii |
+| [Chronicler](https://github.com/ewanc26/Chronicler) | in-game newspaper plugin for Minecraft servers |
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L21UTNT3)
+Other work includes [AT Protocol tools](https://github.com/ewanc26?tab=repositories&q=atproto), [bots](https://github.com/ewanc26?tab=repositories&q=bluesky), [language projects](https://github.com/ewanc26?tab=repositories&q=language), and [older experiments](https://github.com/ewanc26?tab=repositories).
 
-</div>
+## AT Protocol
 
----
+- Handle: [`at://ewancroft.uk`](https://bsky.app/profile/ewancroft.uk)
+- DID: `did:plc:ofrbh253gwicbkc5nktqepol`
+- PDS: [`pds.croft.click`](https://pds.croft.click)
 
-### github stats
-
-<div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ewanc26&show_icons=true&theme=dark&hide_border=true&count_private=true&line_height=24" alt="GitHub Stats" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=ewanc26&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ewanc26&theme=dark&hide_border=true&date_format=j%20M%20Y" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ewanc26&theme=react-dark&hide_border=true&area=true&color=a6e3a1&line=a6e3a1&point=ffffff" alt="GitHub Activity Graph" />
-</div>
-
----
-
-### at protocol stats
-
-<div align="center">
-
-![Posts](https://img.shields.io/badge/dynamic/json?url=https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=did:plc:ofrbh253gwicbkc5nktqepol&query=postsCount&label=Posts&style=flat-square&color=a6e3a1)
-![Followers](https://img.shields.io/badge/dynamic/json?url=https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=did:plc:ofrbh253gwicbkc5nktqepol&query=followersCount&label=Followers&style=flat-square&color=a6e3a1)
-![Following](https://img.shields.io/badge/dynamic/json?url=https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=did:plc:ofrbh253gwicbkc5nktqepol&query=followsCount&label=Following&style=flat-square&color=a6e3a1)
-![Collections](https://img.shields.io/badge/Collections-165-a6e3a1?style=flat-square)
-![PDS](https://img.shields.io/badge/PDS-eurosky.social-a6e3a1?style=flat-square)
-
-</div>
-
----
-
-### what i build
-
-**AT Protocol ecosystem** — tools, bots, and infrastructure for the decentralised web:
-
-| project | what it does |
-|---------|-------------|
-| [wolfram](https://github.com/ewanc26/wolfram) · [🧶](https://tangled.org/ewancroft.uk/wolfram) | C11 AT Protocol SDK (`libwolfram`) — XRPC/WebSocket transport, OAuth/DPoP, repo DAG-CBOR/CAR/MST, firehose + Jetstream, moderation, PLC ops, with C++ & C# bindings |
-| [malachite](https://github.com/ewanc26/pkgs/tree/main/packages/malachite) · [🧶](https://tangled.org/ewancroft.uk/pkgs) | import Last.fm, Spotify, Apple Music & YouTube Music history to AT Protocol (OAuth, CLI + web) |
-| [opal](https://github.com/ewanc26/pkgs/tree/main/packages/opal) · [🧶](https://tangled.org/ewancroft.uk/pkgs) | migrate Twitter, Mastodon, Threads, Nostr → Bluesky (OAuth, CLI + web) |
-| [jasper](https://github.com/ewanc26/pkgs/tree/main/packages/jasper) · [🧶](https://tangled.org/ewancroft.uk/pkgs) | import Instagram posts to AT Protocol as Grain/Spark (OAuth, CLI + web) |
-| [bismuth](https://github.com/ewanc26/pkgs/tree/main/packages/bismuth) · [🧶](https://tangled.org/ewancroft.uk/pkgs) | convert site.standard.document records → Markdown (CLI + web) |
-| [website](https://github.com/ewanc26/website) · [🧶](https://tangled.org/ewancroft.uk/website) | ewancroft.uk — personal site powered by AT Protocol records |
-| [moonstone](https://github.com/ewanc26/moonstone) · [🧶](https://tangled.org/ewancroft.uk/moonstone) | experimental PDS in Rust (WIP) |
-| [socialsync](https://github.com/ewanc26/socialsync) · [🧶](https://tangled.org/jollywhoppers.com/socialsync) | Minecraft mod — sync stats & achievements to AT Protocol |
-| [atproto-snake](https://github.com/ewanc26/atproto-snake) · [🧶](https://tangled.org/ewancroft.uk/atproto-snake) | snake game with AT Protocol OAuth and score submission |
-| [atproto-shortlink](https://github.com/ewanc26/atproto-shortlink) · [🧶](https://tangled.org/ewancroft.uk/atproto-shortlink) | shortlink service for AT Protocol handles and DIDs |
-| [linkat-directory](https://github.com/ewanc26/linkat-directory) · [🧶](https://tangled.org/ewancroft.uk/linkat-directory) | Linkat-powered user directory |
-| [pds-backup](https://github.com/ewanc26/pds-backup) · [🧶](https://tangled.org/ewancroft.uk/pds-backup) | back up your AT Protocol PDS data |
-| [atpkt](https://github.com/ewanc26/atpkt) · [🧶](https://tangled.org/ewancroft.uk/atpkt) | Kotlin AT Protocol SDK (Ktor, kotlinx.serialization) |
-| [tourmaline](https://github.com/ewanc26/tourmaline) | Teal.fm scrobble analyser & listener profile generator |
-| [atproto-mcp-server](https://github.com/ewanc26/atproto-mcp-server) | MCP server for Bluesky/AT Protocol interactions |
-| [svelte-standard-site](https://github.com/ewanc26/svelte-standard-site) · [🧶](https://tangled.org/ewancroft.uk/svelte-standard-site) | Standard.site publication renderer for SvelteKit |
-| [eurosky-social-app](https://github.com/ewanc26/eurosky-social-app) | eurosky fork of Bluesky Social app |
-| [cleanfollow-bsky](https://github.com/ewanc26/cleanfollow-bsky) | hidden accounts unfollow tool for Bluesky |
-| [inkwell](https://github.com/ewanc26/inkwell) · [🧶](https://tangled.org/ewancroft.uk/inkwell) | iOS client for Standard.site (AT Protocol) |
-| [inkwell-android](https://github.com/ewanc26/inkwell-android) · [🧶](https://tangled.org/ewancroft.uk/inkwell-android) | Android client for Standard.site (AT Protocol) |
-
-**Bots & Live Automations**:
-
-| project | what it does |
-|---------|-------------|
-| [bluesky-moon-tracker](https://github.com/ewanc26/bluesky-moon-tracker) · [🧶](https://tangled.org/ewancroft.uk/bluesky-moon-tracker) | daily moon phase posts (Rust, atrium-rs) |
-| [bluesky-awoo-bot](https://github.com/ewanc26/bluesky-awoo-bot) · [🧶](https://tangled.org/ewancroft.uk/bluesky-awoo-bot) | wolf sounds on Bluesky |
-| [bluesky-markov](https://github.com/ewanc26/bluesky-markov) · [🧶](https://tangled.org/ewancroft.uk/bluesky-markov) | markov chain bot for Bluesky |
-| [bluesky-gradient](https://github.com/ewanc26/bluesky-gradient) · [🧶](https://tangled.org/ewancroft.uk/bluesky-gradient) | gradient profile banner generator |
-| [bluesky-avatar-updater](https://github.com/ewanc26/bluesky-avatar-updater) · [🧶](https://tangled.org/ewancroft.uk/bluesky-avatar-updater) | scheduled avatar updates |
-| [bluesky-ollama](https://github.com/ewanc26/bluesky-ollama) · [🧶](https://tangled.org/ewancroft.uk/bluesky-ollama) | LLM-generated posts via Ollama |
-| [mastodon-markov](https://github.com/ewanc26/mastodon-markov) · [🧶](https://tangled.org/ewancroft.uk/mastodon-markov) | markov chain bot for Mastodon |
-
-**Compilers & esoteric languages**:
-
-| project | what it does |
-|---------|-------------|
-| [selenium](https://github.com/ewanc26/selenium) · [🧶](https://tangled.org/ewancroft.uk/selenium) | lunar/poetic syntax, strong typing, compiles to C |
-| [numlang](https://github.com/ewanc26/numlang) · [🧶](https://tangled.org/ewancroft.uk/numlang) | stack-based, numbers + punctuation only, compiles to C |
-| [sigi](https://github.com/ewanc26/sigi) · [🧶](https://tangled.org/ewancroft.uk/sigi) | pure symbolic stack language, all punctuation, compiles to C |
-| [esoterica](https://github.com/ewanc26/esoterica) | Rust framework for generating constructed languages (conlangs) |
-
-**NixOS & infrastructure**:
-
-| project | what it does |
-|---------|-------------|
-| [nix-starter](https://github.com/ewanc26/nix-starter) · [🧶](https://tangled.org/ewancroft.uk/nix-starter) | starter NixOS configs — TUI laptop and hardened server |
-| [docsite](https://github.com/ewanc26/docsite) · [🧶](https://tangled.org/ewancroft.uk/docsite) | Sequoia-powered documentation site |
-| [devlog](https://github.com/ewanc26/devlog) | automated changelog published to AT Protocol |
-| [pkgs](https://github.com/ewanc26/pkgs) · [🧶](https://tangled.org/ewancroft.uk/pkgs) | monorepo — 16+ TypeScript packages, 1 Rust, 1 Python |
-
-**Other**:
-
-| project | what it does |
-|---------|-------------|
-| [tangled-sync](https://github.com/ewanc26/tangled-sync) · [🧶](https://tangled.org/ewancroft.uk/tangled-sync) | sync repos to Tangled knotwork |
-| [mc-server](https://github.com/ewanc26/mc-server) · [🧶](https://tangled.org/ewancroft.uk/mc-server) | NixOS Minecraft server config |
-| [website-comm-template](https://github.com/ewanc26/website-comm-template) · [🧶](https://tangled.org/ewancroft.uk/website-comm-template) | SvelteKit template with Resend contact form |
-| [digital-person](https://github.com/ewanc26/digital-person) | Letta agent template for human online presence |
-| [faol-website](https://github.com/ewanc26/faol-website) | Faol's blog — digital person, published with Sequoia |
-| [letta-writer](https://github.com/ewanc26/letta-writer) | Letta agent for writing and document tasks |
-
-Full docs at **[docs.ewancroft.uk](https://docs.ewancroft.uk)**. Devlog at **[devlog.croft.click](https://devlog.croft.click)**.
-
----
-
-### about me
-
-- **AT Protocol**: `did:plc:ofrbh253gwicbkc5nktqepol` · handle: `ewancroft.uk` · PDS: `eurosky.social`
-- **Code hosting**: [GitHub](https://github.com/ewanc26) · [Tangled](https://tangled.org/ewancroft.uk)
-- **Location**: England, United Kingdom
-- **Heritage**: Anglo-Scottish
-- **Learning**: Scottish Gaelic (Gàidhlig na h-Alba) — "Tha mi Pàgannach" (I am Pagan)
-- **Music**: Powerwolf Top 0.03% globally
-- **Crypto**: XMR `44yH2LpkSsrSmWQC3SVmrABw2MUhNjNCE365hG7Rr7veJYNPBD1f6dNgXNr2nc6ZcP3jEyj9vXnqmg7VBBPeS8uwMhJ4yXW` · BTC `bc1qp3l6e9pjc5jan7ulpd58av8wfdtyhrchj84clh` · ETH `0x4B8c9d62ff89bc7199a197C55dac2abef1808B77`
-
-**Stack**:
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-
-**Also work with**: C (libwolfram AT Protocol SDK), AT Protocol lexicons, Godot (GDScript)
-
----
-
-### digital sovereignty
-
-I believe in owning your data. AT Protocol lets me host my own PDS, control my identity, and take my content anywhere. My site runs on AT Protocol records. Last.fm, Spotify, Apple Music, and YouTube Music data flows through malachite into the same ecosystem. Instagram exports go through jasper. Twitter and Mastodon history through opal. All roads lead back to the same PDS.
-
----
-
-<div align="center">
-
-*moon phases • AT Protocol • compilers • wolves*
-
-</div>
+I care about data portability, self-hosting, and making the web a little more interesting.
