@@ -15,7 +15,7 @@ Anglo-Scottish pagan, poet, and programmer from the UK. I build AT Protocol tool
 | [website](https://github.com/ewanc26/website) | personal site powered by AT Protocol records |
 | [pkgs](https://github.com/ewanc26/pkgs) | publishing and migration tools for the decentralised web |
 | [channel-blue](https://github.com/ewanc26/channel-blue) | Bluesky client for the Wii |
-| [Chronicler](https://github.com/ewanc26/Chronicler) | in-game newspaper plugin for Minecraft servers |
+| [cobalt](https://github.com/ewanc26/cobalt) | Bluesky client for the Wii U |
 
 Other work includes [AT Protocol tools](https://github.com/ewanc26?tab=repositories&q=atproto), [bots](https://github.com/ewanc26?tab=repositories&q=bluesky), [language projects](https://github.com/ewanc26?tab=repositories&q=language), and [older experiments](https://github.com/ewanc26?tab=repositories).
 
