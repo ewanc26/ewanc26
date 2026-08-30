@@ -4,7 +4,7 @@
 
 Anglo-Scottish pagan, poet, and programmer from the UK. I build AT Protocol tools, small games, and self-hosted services.
 
-[website](https://ewancroft.uk) · [docs](https://docs.ewancroft.uk) · [devlog](https://devlog.croft.click) · [Forgejo](https://git.croft.click) · [Tangled](https://tangled.org/ewancroft.uk) · [Ko-fi](https://ko-fi.com/L4L21UTNT3)
+[website](https://ewancroft.uk) · [docs](https://docs.ewancroft.uk) · [devlog](https://devlog.croft.click) · [Tangled](https://tangled.org/ewancroft.uk) · [Ko-fi](https://ko-fi.com/L4L21UTNT3)
 
 ## AT Protocol
 
