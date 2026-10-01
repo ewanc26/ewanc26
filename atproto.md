@@ -13,9 +13,9 @@ My tools act as bridges to the ATProto ecosystem:
 - **Documentation**: Bismuth converts rich documents into portable Markdown.
 
 ## Infrastructure
-My PDS runs at `pds.croft.click`. Earlier NixOS configurations are kept in `ewanc26/nix`, with starter templates in `ewanc26/nix-starter`.
+My account is hosted at `eurosky.social`. I previously ran my own PDS at `pds.croft.click` and decommissioned it in October 2026 once the account had moved. Earlier NixOS configurations are kept in `ewanc26/nix`, with starter templates in `ewanc26/nix-starter`.
 
 ## Identity
 - **DID**: `did:plc:ofrbh253gwicbkc5nktqepol`
 - **Handle**: `ewancroft.uk`
-- **PDS**: `pds.croft.click`
+- **PDS**: [`eurosky.social`](https://eurosky.social)

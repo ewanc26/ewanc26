@@ -23,6 +23,6 @@ Other work includes [AT Protocol tools](https://github.com/ewanc26?tab=repositor
 
 - Handle: [`at://ewancroft.uk`](https://bsky.app/profile/ewancroft.uk)
 - DID: `did:plc:ofrbh253gwicbkc5nktqepol`
-- PDS: [`pds.croft.click`](https://pds.croft.click)
+- PDS: [`eurosky.social`](https://eurosky.social) (formerly self-hosted at `pds.croft.click`)
 
 I care about data portability, self-hosting, and making the web a little more interesting.
