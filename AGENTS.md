@@ -1,19 +1,23 @@
 # AGENTS.md
 
-Guidance for agents working on the `ewanc26` GitHub profile repository.
+Guidance for AI coding agents working in **ewanc26**.
 
-## Scope
+## Project overview
 
-The root `README.md` is the product: GitHub renders it on the account profile. It presents a bilingual Gaelic/English introduction, live GitHub and AT Protocol badges, grouped project tables, tools/technologies, infrastructure principles, current work, and contact/support links. There is no application source or build system.
 
-## Rules
 
-- Keep the voice personal, concise, and factual. Do not invent biography, affiliations, metrics, or project status.
-- Preserve working links, image alt text, and readable rendering in both light and dark GitHub themes.
-- Treat externally generated badges/cards as third-party dependencies; use stable HTTPS endpoints and do not embed secrets in query strings.
-- Keep HTML within GitHub's supported Markdown subset.
-- Keep the hand-maintained project catalogue, counts, PDS label, current-work list, and canonical/archived links synchronized with the repositories they describe.
+- Language: Profile repository
+- Default branch: main
 
-## Validation
+## Working rules
 
-Review the rendered Markdown structure, check every link and image target, inspect raw HTML balance, and verify that private contact details or tokens are absent. Changes need no build, but they do need visual review at desktop and narrow widths. Keep the commit limited to profile content and assets.
+- Inspect the README, manifests, CI workflows, and nearby code before editing.
+- Preserve existing architecture, naming, formatting, and error-handling conventions.
+- Use project scripts for validation; never claim checks you did not run.
+- Keep changes scoped and update tests or documentation when behavior changes.
+- Use feature branches and pull requests.
+- Treat generated files, credentials, deployment configuration, and release metadata as sensitive.
+
+## Recent history
+
+Sync AGENTS.md from zincfox; Sync AGENTS.md from zincfox; Sync CONTRIBUTING.md from zincfox; Sync CONTRIBUTING.md from zincfox; Update README.md
