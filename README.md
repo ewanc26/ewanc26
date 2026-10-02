@@ -10,12 +10,11 @@ Anglo-Scottish pagan, poet, and programmer from the UK. I build AT Protocol tool
 
 | project | what it is |
 | --- | --- |
-| [wolfram](https://github.com/ewanc26/wolfram) | C23 SDK for AT Protocol, including OAuth, repositories, streaming, and Wii support |
-| [hasharium](https://github.com/ewanc26/hasharium) | deterministic DID specimens and PDS-backed collections |
+| [wolfram](https://github.com/ewanc26/wolfram) | C23 SDK for AT Protocol, including OAuth, repositories, streaming, and Wii U, 3DS support |
 | [website](https://github.com/ewanc26/website) | personal site powered by AT Protocol records |
 | [pkgs](https://github.com/ewanc26/pkgs) | publishing and migration tools for the decentralised web |
-| [channel-blue](https://github.com/ewanc26/channel-blue) | Bluesky client for the Wii |
 | [cobalt](https://github.com/ewanc26/cobalt) | Bluesky client for the Wii U |
+| [indigo](https://github.com/ewanc26/indigo) | Bluesky client for the 3DS |
 
 Other work includes [AT Protocol tools](https://github.com/ewanc26?tab=repositories&q=atproto), [bots](https://github.com/ewanc26?tab=repositories&q=bluesky), [language projects](https://github.com/ewanc26?tab=repositories&q=language), and [older experiments](https://github.com/ewanc26?tab=repositories).
 
