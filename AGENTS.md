@@ -20,4 +20,4 @@ Guidance for AI coding agents working in **ewanc26**.
 
 ## Recent history
 
-Sync AGENTS.md from zincfox; Sync AGENTS.md from zincfox; Sync CONTRIBUTING.md from zincfox; Sync CONTRIBUTING.md from zincfox; Update README.md
+Update README.md
