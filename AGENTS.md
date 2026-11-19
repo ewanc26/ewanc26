@@ -4,6 +4,8 @@ Guidance for AI coding agents working in **ewanc26**.
 
 ## Project overview
 
+Profile repository: the README shown on my GitHub profile.
+
 - Language: Profile repository
 - Default branch: main
 
