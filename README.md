@@ -25,3 +25,9 @@ Other work includes [AT Protocol tools](https://github.com/ewanc26?tab=repositor
 - PDS: [`eurosky.social`](https://eurosky.social) (formerly self-hosted at `pds.croft.click`)
 
 I care about data portability, self-hosting, and making the web a little more interesting.
+
+---
+
+## Licence
+
+Copyright (C) 2024-2026 Ewan Croft (ewanc26).
